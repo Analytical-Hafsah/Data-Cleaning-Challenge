@@ -39,6 +39,7 @@ Firstly, I noticed that the name and long name Columns had special characters wh
 DATA CLEANING WITH EXCEL.
 
 •NAME
+
 I used Excel power query to separate the player URL to extract the player’s name. Then I used formula “=SUBSTITUTE (G2,"-"," ")“ to remove the separator sign (–) from the names. And then I used =PROPER(F2) to change the names to Sentence case.
 
 •HEIGHT
