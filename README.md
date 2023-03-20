@@ -18,6 +18,7 @@ To clean list in Excel.
 
 
 To clean list in SQL Server.
+
 •Unwanted Columns.
 
 •Standardize Date Format for Joined column.
